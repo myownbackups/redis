@@ -3,9 +3,9 @@ module github.com/gospider007/redis
 go 1.26.0
 
 require (
-	github.com/gospider007/gson v0.0.0-20260226061950-5c3f79e698ed
-	github.com/gospider007/gtls v0.0.0-20260226062034-21d9e329661e
-	github.com/gospider007/netx v0.0.0-20260226071412-851a8ceb3d7b
+	github.com/gospider007/gson v0.0.0-20260227072317-908b3d99a55c
+	github.com/gospider007/gtls v0.0.0-20260227072317-1cb9d5dd1790
+	github.com/gospider007/netx v0.0.0-20260227072317-9673071ae146
 	github.com/gospider007/tools v0.0.0-20260226061734-3c580e5bfd25
 	github.com/redis/go-redis/v9 v9.18.0
 	golang.org/x/exp v0.0.0-20260218203240-3dfff04db8fa
@@ -24,11 +24,11 @@ require (
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/google/pprof v0.0.0-20260202012954-cb029daf43ef // indirect
-	github.com/gospider007/conf v0.0.0-20260226061946-bbb00d34d32d // indirect
-	github.com/gospider007/http1 v0.0.0-20260226061948-366f838b570a // indirect
-	github.com/gospider007/http2 v0.0.0-20260226062044-f117112480d5 // indirect
-	github.com/gospider007/http3 v0.0.0-20260226062044-1b20f82cc4ed // indirect
-	github.com/gospider007/ja3 v0.0.0-20260226061946-1758ed04ec7f // indirect
+	github.com/gospider007/conf v0.0.0-20260227072313-99ff27e1eaa8 // indirect
+	github.com/gospider007/http1 v0.0.0-20260227072317-12fdb4f2b4d5 // indirect
+	github.com/gospider007/http2 v0.0.0-20260227072357-d0977a656f03 // indirect
+	github.com/gospider007/http3 v0.0.0-20260227072357-23d0a2e5c205 // indirect
+	github.com/gospider007/ja3 v0.0.0-20260227072348-f3f3168afc50 // indirect
 	github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8 // indirect
 	github.com/gospider007/re v0.0.0-20260227072205-6223d82a3dab // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
