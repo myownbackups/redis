@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/gospider007/gson v0.0.0-20260324001722-d82732c33b63
 	github.com/gospider007/gtls v0.0.0-20260324001817-f47373a27843
-	github.com/gospider007/netx v0.0.0-20260324001817-c0ee557f0cde
+	github.com/gospider007/netx v0.0.0-20260324001858-499557ac7d89
 	github.com/gospider007/tools v0.0.0-20260324001556-1c93ad227dc2
 	github.com/redis/go-redis/v9 v9.18.0
 	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90
