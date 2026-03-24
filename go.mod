@@ -3,10 +3,10 @@ module github.com/gospider007/redis
 go 1.26.0
 
 require (
-	github.com/gospider007/gson v0.0.0-20260312032453-c0586fa3915c
-	github.com/gospider007/gtls v0.0.0-20260318014708-180dc2d336c0
-	github.com/gospider007/netx v0.0.0-20260318014810-5965ee791978
-	github.com/gospider007/tools v0.0.0-20260312032233-dcd42802e7e0
+	github.com/gospider007/gson v0.0.0-20260323150146-de57f2199baf
+	github.com/gospider007/gtls v0.0.0-20260323151720-1df292660a01
+	github.com/gospider007/netx v0.0.0-20260323151722-2945efd428f3
+	github.com/gospider007/tools v0.0.0-20260323151002-ebe96ce78e71
 	github.com/redis/go-redis/v9 v9.18.0
 	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90
 )
@@ -24,16 +24,16 @@ require (
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/google/pprof v0.0.0-20260302011040-a15ffb7f9dcc // indirect
-	github.com/gospider007/conf v0.0.0-20260312032451-093bb31ec043 // indirect
-	github.com/gospider007/http1 v0.0.0-20260312032453-4488e7d307ec // indirect
-	github.com/gospider007/http2 v0.0.0-20260318014708-f7c4218c9661 // indirect
-	github.com/gospider007/http3 v0.0.0-20260313063804-c44b232593ad // indirect
-	github.com/gospider007/ja3 v0.0.0-20260318014537-e1f9ace9a7bb // indirect
+	github.com/gospider007/conf v0.0.0-20260323170523-429be8f078eb // indirect
+	github.com/gospider007/http1 v0.0.0-20260323170531-1dff9da5d2bf // indirect
+	github.com/gospider007/http2 v0.0.0-20260323170530-93f5f0f20b06 // indirect
+	github.com/gospider007/http3 v0.0.0-20260323170539-05af8e5802dc // indirect
+	github.com/gospider007/ja3 v0.0.0-20260323170525-ffe6efd39773 // indirect
 	github.com/gospider007/kinds v0.0.0-20260211060834-06a10e2431d8 // indirect
 	github.com/gospider007/re v0.0.0-20260227072205-6223d82a3dab // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.18.4 // indirect
+	github.com/klauspost/compress v1.18.5 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/libdns/libdns v1.1.1 // indirect
 	github.com/mholt/acmez/v3 v3.1.6 // indirect
