@@ -7,7 +7,7 @@ require (
 	github.com/gospider007/gtls v0.0.0-20260428065234-9a3d1f97b23f
 	github.com/gospider007/netx v0.0.0-20260428065312-ef1a908dab29
 	github.com/gospider007/tools v0.0.0-20260428065035-959b2c088295
-	github.com/redis/go-redis/v9 v9.18.0
+	github.com/redis/go-redis/v9 v9.19.0
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f
 )
 
@@ -17,7 +17,6 @@ require (
 	github.com/caddyserver/certmagic v0.25.3 // indirect
 	github.com/caddyserver/zerossl v0.1.5 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
 	github.com/gaukas/clienthellod v0.4.2 // indirect
 	github.com/gaukas/godicttls v0.0.4 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
@@ -42,7 +41,7 @@ require (
 	github.com/minio/minlz v1.1.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee // indirect
-	github.com/onsi/ginkgo/v2 v2.28.2 // indirect
+	github.com/onsi/ginkgo/v2 v2.28.3 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.59.0 // indirect
 	github.com/refraction-networking/uquic v0.0.6 // indirect
